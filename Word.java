@@ -24,5 +24,6 @@ public class Word
         // Imprime longitud de la palabra y la posición de la primer letra 'a'
         System.out.println(word1.length());
         System.out.println(word1.indexOf("a"));
+        System.out.println("Hola");
     }
 }
